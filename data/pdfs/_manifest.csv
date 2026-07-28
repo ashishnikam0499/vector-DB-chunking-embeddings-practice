@@ -1,0 +1,201 @@
+doc_id,department,topic,doc_type,filename
+1,HR,Employee Onboarding Policy,Policy,doc_001_hr_employee_onboarding_policy.pdf
+2,HR,Employee Onboarding Policy,FAQ,doc_002_hr_employee_onboarding_policy_faq.pdf
+3,HR,Employee Onboarding Policy,Quick reference,doc_003_hr_employee_onboarding_policy_quickref.pdf
+4,HR,Paid Time Off Policy,Policy,doc_004_hr_paid_time_off_policy.pdf
+5,HR,Paid Time Off Policy,FAQ,doc_005_hr_paid_time_off_policy_faq.pdf
+6,HR,Paid Time Off Policy,Quick reference,doc_006_hr_paid_time_off_policy_quickref.pdf
+7,HR,Performance Review Process,Procedure,doc_007_hr_performance_review_process.pdf
+8,HR,Performance Review Process,FAQ,doc_008_hr_performance_review_process_faq.pdf
+9,HR,Performance Review Process,Quick reference,doc_009_hr_performance_review_process_quickref.pdf
+10,HR,Parental Leave Policy,Policy,doc_010_hr_parental_leave_policy.pdf
+11,HR,Parental Leave Policy,FAQ,doc_011_hr_parental_leave_policy_faq.pdf
+12,HR,Parental Leave Policy,Quick reference,doc_012_hr_parental_leave_policy_quickref.pdf
+13,HR,Employee Referral Program,Procedure,doc_013_hr_employee_referral_program.pdf
+14,HR,Employee Referral Program,FAQ,doc_014_hr_employee_referral_program_faq.pdf
+15,HR,Employee Referral Program,Quick reference,doc_015_hr_employee_referral_program_quickref.pdf
+16,HR,Code of Conduct Policy,Policy,doc_016_hr_code_of_conduct_policy.pdf
+17,HR,Code of Conduct Policy,FAQ,doc_017_hr_code_of_conduct_policy_faq.pdf
+18,HR,Benefits Enrollment Guide,Procedure,doc_018_hr_benefits_enrollment_guide.pdf
+19,HR,Benefits Enrollment Guide,FAQ,doc_019_hr_benefits_enrollment_guide_faq.pdf
+20,HR,Compensation Review Policy,Policy,doc_020_hr_compensation_review_policy.pdf
+21,HR,Compensation Review Policy,FAQ,doc_021_hr_compensation_review_policy_faq.pdf
+22,HR,Exit Interview Procedure,Procedure,doc_022_hr_exit_interview_procedure.pdf
+23,HR,Exit Interview Procedure,FAQ,doc_023_hr_exit_interview_procedure_faq.pdf
+24,HR,Employee Relations Policy,Policy,doc_024_hr_employee_relations_policy.pdf
+25,HR,Employee Relations Policy,FAQ,doc_025_hr_employee_relations_policy_faq.pdf
+26,IT,Password Policy,Policy,doc_026_it_password_policy.pdf
+27,IT,Password Policy,FAQ,doc_027_it_password_policy_faq.pdf
+28,IT,Password Policy,Quick reference,doc_028_it_password_policy_quickref.pdf
+29,IT,VPN Access Guide,Procedure,doc_029_it_vpn_access_guide.pdf
+30,IT,VPN Access Guide,FAQ,doc_030_it_vpn_access_guide_faq.pdf
+31,IT,VPN Access Guide,Quick reference,doc_031_it_vpn_access_guide_quickref.pdf
+32,IT,Software License Management,Procedure,doc_032_it_software_license_management.pdf
+33,IT,Software License Management,FAQ,doc_033_it_software_license_management_faq.pdf
+34,IT,Software License Management,Quick reference,doc_034_it_software_license_management_quickref.pdf
+35,IT,Data Backup Policy,Policy,doc_035_it_data_backup_policy.pdf
+36,IT,Data Backup Policy,FAQ,doc_036_it_data_backup_policy_faq.pdf
+37,IT,Data Backup Policy,Quick reference,doc_037_it_data_backup_policy_quickref.pdf
+38,IT,Helpdesk Ticketing Procedure,Procedure,doc_038_it_helpdesk_ticketing_procedure.pdf
+39,IT,Helpdesk Ticketing Procedure,FAQ,doc_039_it_helpdesk_ticketing_procedure_faq.pdf
+40,IT,Helpdesk Ticketing Procedure,Quick reference,doc_040_it_helpdesk_ticketing_procedure_quickref.pdf
+41,IT,Device Provisioning Guide,Procedure,doc_041_it_device_provisioning_guide.pdf
+42,IT,Device Provisioning Guide,FAQ,doc_042_it_device_provisioning_guide_faq.pdf
+43,IT,Email Retention Policy,Policy,doc_043_it_email_retention_policy.pdf
+44,IT,Email Retention Policy,FAQ,doc_044_it_email_retention_policy_faq.pdf
+45,IT,Cloud Storage Guidelines,Procedure,doc_045_it_cloud_storage_guidelines.pdf
+46,IT,Cloud Storage Guidelines,FAQ,doc_046_it_cloud_storage_guidelines_faq.pdf
+47,IT,Endpoint Security Policy,Policy,doc_047_it_endpoint_security_policy.pdf
+48,IT,Endpoint Security Policy,FAQ,doc_048_it_endpoint_security_policy_faq.pdf
+49,IT,Access Revocation Procedure,Procedure,doc_049_it_access_revocation_procedure.pdf
+50,IT,Access Revocation Procedure,FAQ,doc_050_it_access_revocation_procedure_faq.pdf
+51,Security,Badge Access Policy,Policy,doc_051_security_badge_access_policy.pdf
+52,Security,Badge Access Policy,FAQ,doc_052_security_badge_access_policy_faq.pdf
+53,Security,Badge Access Policy,Quick reference,doc_053_security_badge_access_policy_quickref.pdf
+54,Security,Visitor Management Procedure,Procedure,doc_054_security_visitor_management_procedure.pdf
+55,Security,Visitor Management Procedure,FAQ,doc_055_security_visitor_management_procedure_faq.pdf
+56,Security,Visitor Management Procedure,Quick reference,doc_056_security_visitor_management_procedure_quickref.pdf
+57,Security,Data Classification Policy,Policy,doc_057_security_data_classification_policy.pdf
+58,Security,Data Classification Policy,FAQ,doc_058_security_data_classification_policy_faq.pdf
+59,Security,Data Classification Policy,Quick reference,doc_059_security_data_classification_policy_quickref.pdf
+60,Security,Incident Escalation Procedure,Procedure,doc_060_security_incident_escalation_procedure.pdf
+61,Security,Incident Escalation Procedure,FAQ,doc_061_security_incident_escalation_procedure_faq.pdf
+62,Security,Incident Escalation Procedure,Quick reference,doc_062_security_incident_escalation_procedure_quickref.pdf
+63,Security,Vendor Risk Assessment Policy,Policy,doc_063_security_vendor_risk_assessment_policy.pdf
+64,Security,Vendor Risk Assessment Policy,FAQ,doc_064_security_vendor_risk_assessment_policy_faq.pdf
+65,Security,Vendor Risk Assessment Policy,Quick reference,doc_065_security_vendor_risk_assessment_policy_quickref.pdf
+66,Security,Encryption Standards Policy,Policy,doc_066_security_encryption_standards_policy.pdf
+67,Security,Encryption Standards Policy,FAQ,doc_067_security_encryption_standards_policy_faq.pdf
+68,Security,Vulnerability Management Process,Procedure,doc_068_security_vulnerability_management_process.pdf
+69,Security,Vulnerability Management Process,FAQ,doc_069_security_vulnerability_management_process_faq.pdf
+70,Security,Security Awareness Training Guide,Procedure,doc_070_security_security_awareness_training_guide.pdf
+71,Security,Security Awareness Training Guide,FAQ,doc_071_security_security_awareness_training_guide_faq.pdf
+72,Security,Physical Site Inspection Procedure,Procedure,doc_072_security_physical_site_inspection_procedure.pdf
+73,Security,Physical Site Inspection Procedure,FAQ,doc_073_security_physical_site_inspection_procedure_faq.pdf
+74,Security,Surveillance Policy,Policy,doc_074_security_surveillance_policy.pdf
+75,Security,Surveillance Policy,FAQ,doc_075_security_surveillance_policy_faq.pdf
+76,Finance,Expense Approval Policy,Policy,doc_076_finance_expense_approval_policy.pdf
+77,Finance,Expense Approval Policy,FAQ,doc_077_finance_expense_approval_policy_faq.pdf
+78,Finance,Expense Approval Policy,Quick reference,doc_078_finance_expense_approval_policy_quickref.pdf
+79,Finance,Purchase Order Procedure,Procedure,doc_079_finance_purchase_order_procedure.pdf
+80,Finance,Purchase Order Procedure,FAQ,doc_080_finance_purchase_order_procedure_faq.pdf
+81,Finance,Purchase Order Procedure,Quick reference,doc_081_finance_purchase_order_procedure_quickref.pdf
+82,Finance,Invoice Processing Guide,Procedure,doc_082_finance_invoice_processing_guide.pdf
+83,Finance,Invoice Processing Guide,FAQ,doc_083_finance_invoice_processing_guide_faq.pdf
+84,Finance,Invoice Processing Guide,Quick reference,doc_084_finance_invoice_processing_guide_quickref.pdf
+85,Finance,Budget Planning Process,Procedure,doc_085_finance_budget_planning_process.pdf
+86,Finance,Budget Planning Process,FAQ,doc_086_finance_budget_planning_process_faq.pdf
+87,Finance,Budget Planning Process,Quick reference,doc_087_finance_budget_planning_process_quickref.pdf
+88,Finance,Petty Cash Policy,Policy,doc_088_finance_petty_cash_policy.pdf
+89,Finance,Petty Cash Policy,FAQ,doc_089_finance_petty_cash_policy_faq.pdf
+90,Finance,Petty Cash Policy,Quick reference,doc_090_finance_petty_cash_policy_quickref.pdf
+91,Finance,Vendor Payment Procedure,Procedure,doc_091_finance_vendor_payment_procedure.pdf
+92,Finance,Vendor Payment Procedure,FAQ,doc_092_finance_vendor_payment_procedure_faq.pdf
+93,Finance,Asset Depreciation Guide,Procedure,doc_093_finance_asset_depreciation_guide.pdf
+94,Finance,Asset Depreciation Guide,FAQ,doc_094_finance_asset_depreciation_guide_faq.pdf
+95,Finance,Travel and Expense Policy,Policy,doc_095_finance_travel_and_expense_policy.pdf
+96,Finance,Travel and Expense Policy,FAQ,doc_096_finance_travel_and_expense_policy_faq.pdf
+97,Finance,Procurement Policy,Policy,doc_097_finance_procurement_policy.pdf
+98,Finance,Procurement Policy,FAQ,doc_098_finance_procurement_policy_faq.pdf
+99,Finance,Financial Close Procedure,Procedure,doc_099_finance_financial_close_procedure.pdf
+100,Finance,Financial Close Procedure,FAQ,doc_100_finance_financial_close_procedure_faq.pdf
+101,Legal,Data Privacy Policy,Policy,doc_101_legal_data_privacy_policy.pdf
+102,Legal,Data Privacy Policy,FAQ,doc_102_legal_data_privacy_policy_faq.pdf
+103,Legal,Data Privacy Policy,Quick reference,doc_103_legal_data_privacy_policy_quickref.pdf
+104,Legal,Contract Review Procedure,Procedure,doc_104_legal_contract_review_procedure.pdf
+105,Legal,Contract Review Procedure,FAQ,doc_105_legal_contract_review_procedure_faq.pdf
+106,Legal,Contract Review Procedure,Quick reference,doc_106_legal_contract_review_procedure_quickref.pdf
+107,Legal,NDA Guidelines,Procedure,doc_107_legal_nda_guidelines.pdf
+108,Legal,NDA Guidelines,FAQ,doc_108_legal_nda_guidelines_faq.pdf
+109,Legal,NDA Guidelines,Quick reference,doc_109_legal_nda_guidelines_quickref.pdf
+110,Legal,Regulatory Filing Procedure,Procedure,doc_110_legal_regulatory_filing_procedure.pdf
+111,Legal,Regulatory Filing Procedure,FAQ,doc_111_legal_regulatory_filing_procedure_faq.pdf
+112,Legal,Regulatory Filing Procedure,Quick reference,doc_112_legal_regulatory_filing_procedure_quickref.pdf
+113,Legal,Litigation Hold Procedure,Procedure,doc_113_legal_litigation_hold_procedure.pdf
+114,Legal,Litigation Hold Procedure,FAQ,doc_114_legal_litigation_hold_procedure_faq.pdf
+115,Legal,Litigation Hold Procedure,Quick reference,doc_115_legal_litigation_hold_procedure_quickref.pdf
+116,Legal,Trademark Usage Policy,Policy,doc_116_legal_trademark_usage_policy.pdf
+117,Legal,Trademark Usage Policy,FAQ,doc_117_legal_trademark_usage_policy_faq.pdf
+118,Legal,Vendor Contract Guidelines,Procedure,doc_118_legal_vendor_contract_guidelines.pdf
+119,Legal,Vendor Contract Guidelines,FAQ,doc_119_legal_vendor_contract_guidelines_faq.pdf
+120,Legal,GDPR Compliance Procedure,Procedure,doc_120_legal_gdpr_compliance_procedure.pdf
+121,Legal,GDPR Compliance Procedure,FAQ,doc_121_legal_gdpr_compliance_procedure_faq.pdf
+122,Legal,Records Retention Policy,Policy,doc_122_legal_records_retention_policy.pdf
+123,Legal,Records Retention Policy,FAQ,doc_123_legal_records_retention_policy_faq.pdf
+124,Legal,Intellectual Property Policy,Policy,doc_124_legal_intellectual_property_policy.pdf
+125,Legal,Intellectual Property Policy,FAQ,doc_125_legal_intellectual_property_policy_faq.pdf
+126,Engineering,Code Review Guidelines,Procedure,doc_126_engineering_code_review_guidelines.pdf
+127,Engineering,Code Review Guidelines,FAQ,doc_127_engineering_code_review_guidelines_faq.pdf
+128,Engineering,Code Review Guidelines,Quick reference,doc_128_engineering_code_review_guidelines_quickref.pdf
+129,Engineering,Deployment Runbook,Procedure,doc_129_engineering_deployment_runbook.pdf
+130,Engineering,Deployment Runbook,FAQ,doc_130_engineering_deployment_runbook_faq.pdf
+131,Engineering,Deployment Runbook,Quick reference,doc_131_engineering_deployment_runbook_quickref.pdf
+132,Engineering,Incident Postmortem Process,Procedure,doc_132_engineering_incident_postmortem_process.pdf
+133,Engineering,Incident Postmortem Process,FAQ,doc_133_engineering_incident_postmortem_process_faq.pdf
+134,Engineering,Incident Postmortem Process,Quick reference,doc_134_engineering_incident_postmortem_process_quickref.pdf
+135,Engineering,API Design Standards,Procedure,doc_135_engineering_api_design_standards.pdf
+136,Engineering,API Design Standards,FAQ,doc_136_engineering_api_design_standards_faq.pdf
+137,Engineering,API Design Standards,Quick reference,doc_137_engineering_api_design_standards_quickref.pdf
+138,Engineering,On-call Rotation Policy,Policy,doc_138_engineering_on_call_rotation_policy.pdf
+139,Engineering,On-call Rotation Policy,FAQ,doc_139_engineering_on_call_rotation_policy_faq.pdf
+140,Engineering,On-call Rotation Policy,Quick reference,doc_140_engineering_on_call_rotation_policy_quickref.pdf
+141,Engineering,Testing Standards Guide,Procedure,doc_141_engineering_testing_standards_guide.pdf
+142,Engineering,Testing Standards Guide,FAQ,doc_142_engineering_testing_standards_guide_faq.pdf
+143,Engineering,Architecture Review Process,Procedure,doc_143_engineering_architecture_review_process.pdf
+144,Engineering,Architecture Review Process,FAQ,doc_144_engineering_architecture_review_process_faq.pdf
+145,Engineering,Release Management Procedure,Procedure,doc_145_engineering_release_management_procedure.pdf
+146,Engineering,Release Management Procedure,FAQ,doc_146_engineering_release_management_procedure_faq.pdf
+147,Engineering,Technical Debt Policy,Policy,doc_147_engineering_technical_debt_policy.pdf
+148,Engineering,Technical Debt Policy,FAQ,doc_148_engineering_technical_debt_policy_faq.pdf
+149,Engineering,Infrastructure Change Process,Procedure,doc_149_engineering_infrastructure_change_process.pdf
+150,Engineering,Infrastructure Change Process,FAQ,doc_150_engineering_infrastructure_change_process_faq.pdf
+151,Facilities,Desk Booking Procedure,Procedure,doc_151_facilities_desk_booking_procedure.pdf
+152,Facilities,Desk Booking Procedure,FAQ,doc_152_facilities_desk_booking_procedure_faq.pdf
+153,Facilities,Desk Booking Procedure,Quick reference,doc_153_facilities_desk_booking_procedure_quickref.pdf
+154,Facilities,Building Access Policy,Policy,doc_154_facilities_building_access_policy.pdf
+155,Facilities,Building Access Policy,FAQ,doc_155_facilities_building_access_policy_faq.pdf
+156,Facilities,Building Access Policy,Quick reference,doc_156_facilities_building_access_policy_quickref.pdf
+157,Facilities,Conference Room Booking Guide,Procedure,doc_157_facilities_conference_room_booking_guide.pdf
+158,Facilities,Conference Room Booking Guide,FAQ,doc_158_facilities_conference_room_booking_guide_faq.pdf
+159,Facilities,Conference Room Booking Guide,Quick reference,doc_159_facilities_conference_room_booking_guide_quickref.pdf
+160,Facilities,Maintenance Request Procedure,Procedure,doc_160_facilities_maintenance_request_procedure.pdf
+161,Facilities,Maintenance Request Procedure,FAQ,doc_161_facilities_maintenance_request_procedure_faq.pdf
+162,Facilities,Maintenance Request Procedure,Quick reference,doc_162_facilities_maintenance_request_procedure_quickref.pdf
+163,Facilities,Parking Policy,Policy,doc_163_facilities_parking_policy.pdf
+164,Facilities,Parking Policy,FAQ,doc_164_facilities_parking_policy_faq.pdf
+165,Facilities,Parking Policy,Quick reference,doc_165_facilities_parking_policy_quickref.pdf
+166,Facilities,Office Cleaning Schedule,Procedure,doc_166_facilities_office_cleaning_schedule.pdf
+167,Facilities,Office Cleaning Schedule,FAQ,doc_167_facilities_office_cleaning_schedule_faq.pdf
+168,Facilities,Emergency Evacuation Procedure,Procedure,doc_168_facilities_emergency_evacuation_procedure.pdf
+169,Facilities,Emergency Evacuation Procedure,FAQ,doc_169_facilities_emergency_evacuation_procedure_faq.pdf
+170,Facilities,Supply Ordering Process,Procedure,doc_170_facilities_supply_ordering_process.pdf
+171,Facilities,Supply Ordering Process,FAQ,doc_171_facilities_supply_ordering_process_faq.pdf
+172,Facilities,Visitor Parking Policy,Policy,doc_172_facilities_visitor_parking_policy.pdf
+173,Facilities,Visitor Parking Policy,FAQ,doc_173_facilities_visitor_parking_policy_faq.pdf
+174,Facilities,Office Relocation Guide,Procedure,doc_174_facilities_office_relocation_guide.pdf
+175,Facilities,Office Relocation Guide,FAQ,doc_175_facilities_office_relocation_guide_faq.pdf
+176,Sales,Sales Commission Policy,Policy,doc_176_sales_sales_commission_policy.pdf
+177,Sales,Sales Commission Policy,FAQ,doc_177_sales_sales_commission_policy_faq.pdf
+178,Sales,Sales Commission Policy,Quick reference,doc_178_sales_sales_commission_policy_quickref.pdf
+179,Sales,Lead Qualification Process,Procedure,doc_179_sales_lead_qualification_process.pdf
+180,Sales,Lead Qualification Process,FAQ,doc_180_sales_lead_qualification_process_faq.pdf
+181,Sales,Lead Qualification Process,Quick reference,doc_181_sales_lead_qualification_process_quickref.pdf
+182,Sales,CRM Usage Guide,Procedure,doc_182_sales_crm_usage_guide.pdf
+183,Sales,CRM Usage Guide,FAQ,doc_183_sales_crm_usage_guide_faq.pdf
+184,Sales,CRM Usage Guide,Quick reference,doc_184_sales_crm_usage_guide_quickref.pdf
+185,Sales,Discount Approval Procedure,Procedure,doc_185_sales_discount_approval_procedure.pdf
+186,Sales,Discount Approval Procedure,FAQ,doc_186_sales_discount_approval_procedure_faq.pdf
+187,Sales,Discount Approval Procedure,Quick reference,doc_187_sales_discount_approval_procedure_quickref.pdf
+188,Sales,Customer Onboarding Process,Procedure,doc_188_sales_customer_onboarding_process.pdf
+189,Sales,Customer Onboarding Process,FAQ,doc_189_sales_customer_onboarding_process_faq.pdf
+190,Sales,Customer Onboarding Process,Quick reference,doc_190_sales_customer_onboarding_process_quickref.pdf
+191,Sales,Sales Territory Policy,Policy,doc_191_sales_sales_territory_policy.pdf
+192,Sales,Sales Territory Policy,FAQ,doc_192_sales_sales_territory_policy_faq.pdf
+193,Sales,Quote Approval Guide,Procedure,doc_193_sales_quote_approval_guide.pdf
+194,Sales,Quote Approval Guide,FAQ,doc_194_sales_quote_approval_guide_faq.pdf
+195,Sales,Contract Renewal Procedure,Procedure,doc_195_sales_contract_renewal_procedure.pdf
+196,Sales,Contract Renewal Procedure,FAQ,doc_196_sales_contract_renewal_procedure_faq.pdf
+197,Sales,Sales Training Program,Procedure,doc_197_sales_sales_training_program.pdf
+198,Sales,Sales Training Program,FAQ,doc_198_sales_sales_training_program_faq.pdf
+199,Sales,Pipeline Review Process,Procedure,doc_199_sales_pipeline_review_process.pdf
+200,Sales,Pipeline Review Process,FAQ,doc_200_sales_pipeline_review_process_faq.pdf

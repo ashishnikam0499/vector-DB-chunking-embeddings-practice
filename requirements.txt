@@ -1,0 +1,20 @@
+# --- Core Orchestration & Text Utilities ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# --- Vector Database ---
+chromadb>=0.6.0
+langchain-chroma>=0.2.0
+
+# --- Embeddings & LLM Providers (Pick what you need) ---
+# For Google Gemini Models
+langchain-google-genai>=2.0.0
+
+# --- Document Loaders & Parsers (Optional but common) ---
+pypdf>=5.0.0
+docx2txt>=0.8
+
+# --- Utilities ---
+python-dotenv>=1.0.0
+pydantic>=2.0.0

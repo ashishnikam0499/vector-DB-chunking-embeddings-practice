@@ -1,0 +1,1 @@
+# vector-DB-chunking-embeddings-practice

@@ -1,2 +1,4 @@
 data/pdfs/*.pdf
 .venv
+.env
+.env.example

@@ -22,7 +22,7 @@ def get_embedding_model():
         )
     else:
         print("No API Key found. Initializing local HuggingFace Embeddings...")
-        from langchain_huggingface import HuggingFaceEmbeddings
+        from langchain.embeddings import HuggingFaceEmbeddings
         return HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 def generate_deterministic_id(doc) -> str:
